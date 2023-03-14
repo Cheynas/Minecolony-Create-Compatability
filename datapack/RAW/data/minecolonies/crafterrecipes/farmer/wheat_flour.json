@@ -1,0 +1,11 @@
+{
+  "type": "recipe",
+  "crafter": "farmer_crafting",
+  "inputs": [
+    {
+      "item": "minecraft:wheat_seeds"
+    }
+  ],
+  "intermediate": "minecraft:air",
+  "result": "create:wheat_flour"
+}

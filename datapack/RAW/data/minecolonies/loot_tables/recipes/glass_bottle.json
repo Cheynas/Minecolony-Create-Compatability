@@ -1,0 +1,20 @@
+{
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:empty",
+          "weight": 0
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:glass_bottle",
+          "weight": 100
+        }
+      ],
+      "name": "minecolonies:recipes/glass_bottle",
+      "rolls": 1.0
+    }
+  ]
+}
