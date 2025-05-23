@@ -3,9 +3,11 @@
   "crafter": "baker_smelting",
   "inputs": [
     {
-      "item": "create:dough"
+      "id": "create:dough"
     }
   ],
   "intermediate": "minecraft:furnace",
-  "result": "minecraft:bread"
+  "result": {
+    "id": "minecraft:bread"
+  }
 }

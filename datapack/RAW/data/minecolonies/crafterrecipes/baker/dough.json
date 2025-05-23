@@ -3,10 +3,12 @@
   "crafter": "baker_crafting",
   "inputs": [
     {
-      "item": "minecolonies:bread_dough"
+      "id": "minecolonies:bread_dough"
     }
   ],
   "intermediate": "minecraft:air",
-  "result": "create:dough",
+  "result": {
+    "id": "create:dough"
+  },
   "show-tooltip": false
 }
