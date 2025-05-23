@@ -8,12 +8,12 @@
       "item": "create:dough"
     },
     {
-      "item": "minecraft:honey_bottle"
+      "item": "minecolonies:large_soy_milk_bottle"
     }
   ],
   "intermediate": "minecraft:air",
-  "loot-table": "minecolonies:recipes/glass_bottle",
-  "min-building-level": 3,
-  "result": "minecolonies:sugary_bread",
+  "loot-table": "minecolonies:recipes/large_bottle",
+  "min-building-level": 4,
+  "result": "minecolonies:milky_bread",
   "show-tooltip": true
 }
